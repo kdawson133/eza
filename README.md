@@ -1,1 +1,2 @@
-# Eza Configuration
+# eza
+Eza Configuration
